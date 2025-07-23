@@ -25,6 +25,7 @@ I'm a PhD student at the [University of Modena and Reggio Emilia](https://www.un
   Evaluates LLMs' performance on Text-to-SQL across accuracy, scalability, and hallucination. Identifies how **benchmarks fail to reflect real-world complexity** and highlights risks of untrustworthy queries, especially under ambiguous or large-scale input.  
   *L Sala, G Sullutrone, S Bergamaschi* — SEBD 2024  
   [Read the Paper](https://ceur-ws.org/Vol-3741/paper65.pdf)
+
 ---
 
 ## 📚 Latest Papers
