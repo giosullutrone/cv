@@ -1,7 +1,6 @@
 # Short Bio
 
-I'm a PhD student at the [University of Modena and Reggio Emilia](https://www.unimore.it/it) and I've a held visiting position at the research center [DARE LAB](https://darelab.athenarc.gr/).  
-I'm passionate about the use of LLMs in real-world scenarios. My research has focused on both **applications**, **AI Safety** and **Over-Safety**.
+I'm a PhD student at the [University of Modena and Reggio Emilia](https://www.unimore.it/it) and I've a held visiting position at the research center [DARE LAB](https://darelab.athenarc.gr/). My research has focused on both **applications**, **AI Safety** and **Over-Safety**.
 
 ---
 
