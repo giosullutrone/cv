@@ -73,8 +73,6 @@ I'm a PhD student at the [University of Modena and Reggio Emilia](https://www.un
 
 ## 💼 More About Myself
 
-### 🚀 Outside of Research
-
 I co-founded **Vivi S.R.L.**, a startup aiming to democratize wine culture by making wine-by-the-glass sustainable and accessible, addressing economic and environmental issues in wine consumption. Our startup has won multiple awards, among many a bootcamp sponsored by *Amazon*.
 
 I also co-hold an **international patent** for a liquid dispensing device that extracts wine or other liquids from sealed bottles without removing the cork — making it suitable for both home and professional use.
